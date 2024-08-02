@@ -5,88 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0ba5bb-5416-40a0-b785-3ce9f2a8c1b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExportData/logs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtentReports/ExtentReports.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LoginPageElm/loginpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/BrowserInfoUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/IconUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/LanguageUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/LogUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/ObjectUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/ReportUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Two2FActorAuthentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/fakerUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/waits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/FrameworkAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/constants/FrameworkConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/constants/TestDataConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/driver/BrowserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/driver/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/driver/TargetFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/AuthorType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/CategoryType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/FailureHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Platform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/FrameworkException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/HeadlessNotSupportedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/InvalidPathForExcelException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/InvalidPathForExtentReportFileException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/InvalidPathForFilesException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/InvalidRemoteWebDriverURLException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/TargetNotValidException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/CaptureHelpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/ExcelHelpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/GMailHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/Helpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/PropertiesHelpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/ScreenRecoderHelpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/keywords/WebUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/objectRepo/LandingPageOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/objectRepo/LoginPageOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/objectRepo/UserSetupPageOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/path_repo/LandingPagePR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/path_repo/SignInPR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/web_elements/LandingPageElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/web_elements/SignInPageElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/web_pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/web_pages/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/web_pages/SignInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/messages/SuccessMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/DepartmentModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/JobFunctionModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/LocationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/SignInModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/VendorPersonalInfoModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/report/AllureManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/report/ExtentReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/report/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuits/TestNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/DataProviderManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/AnnotationTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/ListenerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/Retry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/webTestCase/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/webTestCase/verifyUserSignInDataDriven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config/datatest.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/ClientsDataExcel.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/DOCX_File_01.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/LoginCSV.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/TxtFileData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +40,7 @@
     "TestNG.verifyVendorRegistration.executor": "Run",
     "TestNG.verifyVendorRegistration.goToLoginPage.executor": "Run",
     "TestNG.verifyVendorRegistration.verifyGmailOTP.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Zapta/Automation/Mawad"
   }
@@ -247,5 +166,16 @@
       <updated>1719399420436</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
