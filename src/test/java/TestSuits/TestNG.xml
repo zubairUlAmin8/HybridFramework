@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Cases"  >
+
+    <groups>
+        <run>
+            <exclude name="dataDrivenTestCases"/>
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="listeners.ListenerTest"/>
+        <listener class-name="listeners.AnnotationTransformer"/>
+    </listeners>
+<!--    <parameter name="BROWSER" value="edge"></parameter>-->
+
+    <test name="Vendor Login" >
+        <classes>
+            <class name="webTestCase.verifyVendorRegistration"/>
+
+        </classes>
+    </test> <!-- Test -->
+
+</suite> <!-- Suite -->

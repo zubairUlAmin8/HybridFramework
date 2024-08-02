@@ -1,0 +1,1 @@
+{"uuid":"09b50c7c-0978-40ab-a1e8-5d435c208a07","name":"webTestCase.verifyVendorRegistration","children":["f6169195-3028-4a22-ae36-e4a04abdc970"],"befores":[{"name":"createDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1722260522841,"stop":1722260522919}],"afters":[],"start":1722260522819,"stop":1722260527674}

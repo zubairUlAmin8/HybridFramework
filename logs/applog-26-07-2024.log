@@ -1,0 +1,531 @@
+[INFO] 26-07-2024 16:19:57 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 16:19:57 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 16:19:57 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 16:19:57 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 26-07-2024 16:19:58 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 16:20:10 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 26-07-2024 16:20:10 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (256c443e9ad4f7e39c720da6ae075aa2)
+[INFO] 26-07-2024 16:20:10 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 16:20:10 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 16:20:10 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 16:20:10 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 16:20:21 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Login to Vendor']
+[INFO] 26-07-2024 16:20:24 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Login to Vendor']
+[INFO] 26-07-2024 16:20:24 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 16:20:25 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 16:20:25 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 16:20:25 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 16:20:25 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 26-07-2024 16:20:27 [main] [LogUtils] - Row: 19 - Column: 8
+[INFO] 26-07-2024 16:20:27 [main] [LogUtils] - StartRow: 1 - EndRow: 7
+[INFO] 26-07-2024 16:20:28 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 16:20:28 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:28 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:28 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 26-07-2024 16:20:28 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:20:28 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 26-07-2024 16:20:28 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:28 [main] [LogUtils] - Set text  on By.cssSelector: #email
+[INFO] 26-07-2024 16:20:28 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:20:29 [main] [LogUtils] - Set text Qwerty003! on By.cssSelector: #password
+[INFO] 26-07-2024 16:20:29 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 26-07-2024 16:20:29 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[INFO] 26-07-2024 16:20:30 [main] [LogUtils] - Verify element visible By.cssSelector: #error_message
+[INFO] 26-07-2024 16:20:30 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 16:20:30 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 16:20:30 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:30 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:30 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 26-07-2024 16:20:30 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:20:30 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 26-07-2024 16:20:30 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:31 [main] [LogUtils] - Set text ubelibervalent1990w on By.cssSelector: #email
+[INFO] 26-07-2024 16:20:31 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:20:31 [main] [LogUtils] - Set text  on By.cssSelector: #password
+[INFO] 26-07-2024 16:20:31 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 26-07-2024 16:20:31 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[INFO] 26-07-2024 16:20:31 [main] [LogUtils] - Verify element visible By.cssSelector: #error_message
+[INFO] 26-07-2024 16:20:31 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 16:20:31 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 16:20:32 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:32 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:32 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 26-07-2024 16:20:32 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:20:32 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 26-07-2024 16:20:32 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:32 [main] [LogUtils] - Set text  on By.cssSelector: #email
+[INFO] 26-07-2024 16:20:32 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:20:32 [main] [LogUtils] - Set text  on By.cssSelector: #password
+[INFO] 26-07-2024 16:20:32 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Verify element visible By.cssSelector: #error_message
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:33 [main] [LogUtils] - Set text client@demo.com on By.cssSelector: #email
+[INFO] 26-07-2024 16:20:34 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:20:34 [main] [LogUtils] - Set text dw5AQDhu9+WsEsWisMJISA== on By.cssSelector: #password
+[INFO] 26-07-2024 16:20:34 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 26-07-2024 16:20:34 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[ERROR] 26-07-2024 16:20:44 [main] [LogUtils] - Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[WARN] 26-07-2024 16:20:44 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 26-07-2024 16:20:54 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (256c443e9ad4f7e39c720da6ae075aa2)
+[INFO] 26-07-2024 16:20:55 [main] [LogUtils] - Screenshot taken: vendorSignInDataDriven
+[INFO] 26-07-2024 16:20:55 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/vendor/login
+[ERROR] 26-07-2024 16:20:55 [main] [LogUtils] - FAILED !! Screenshot for test case: vendorSignInDataDriven
+[ERROR] 26-07-2024 16:20:55 [main] [LogUtils] - java.lang.AssertionError: Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[INFO] 26-07-2024 16:20:55 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 16:20:55 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:55 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:55 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 26-07-2024 16:20:55 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:20:55 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 26-07-2024 16:20:55 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:20:55 [main] [LogUtils] - Set text client@demo.com on By.cssSelector: #email
+[INFO] 26-07-2024 16:20:56 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:20:56 [main] [LogUtils] - Set text dw5AQDhu9+WsEsWisMJISA== on By.cssSelector: #password
+[INFO] 26-07-2024 16:20:56 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 26-07-2024 16:20:56 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[ERROR] 26-07-2024 16:21:06 [main] [LogUtils] - Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[ERROR] 26-07-2024 16:21:06 [main] [LogUtils] - Test case:  is failed.
+[INFO] 26-07-2024 16:21:06 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (256c443e9ad4f7e39c720da6ae075aa2)
+[INFO] 26-07-2024 16:21:07 [main] [LogUtils] - Screenshot taken: vendorSignInDataDriven
+[INFO] 26-07-2024 16:21:07 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/vendor/login
+[ERROR] 26-07-2024 16:21:17 [main] [LogUtils] - FAILED !! Screenshot for test case: vendorSignInDataDriven
+[ERROR] 26-07-2024 16:21:17 [main] [LogUtils] - java.lang.AssertionError: Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[INFO] 26-07-2024 16:21:17 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 16:21:17 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:21:17 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:21:18 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 26-07-2024 16:21:18 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:21:18 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 26-07-2024 16:21:18 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:21:18 [main] [LogUtils] - Set text ubelibervalent1990w on By.cssSelector: #email
+[INFO] 26-07-2024 16:21:18 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:21:18 [main] [LogUtils] - Set text d4af5a4dafd4 on By.cssSelector: #password
+[INFO] 26-07-2024 16:21:18 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 26-07-2024 16:21:18 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[ERROR] 26-07-2024 16:21:29 [main] [LogUtils] - Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[WARN] 26-07-2024 16:21:29 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 26-07-2024 16:21:39 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (256c443e9ad4f7e39c720da6ae075aa2)
+[INFO] 26-07-2024 16:21:40 [main] [LogUtils] - Screenshot taken: vendorSignInDataDriven
+[INFO] 26-07-2024 16:21:40 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/vendor/login
+[ERROR] 26-07-2024 16:21:40 [main] [LogUtils] - FAILED !! Screenshot for test case: vendorSignInDataDriven
+[ERROR] 26-07-2024 16:21:40 [main] [LogUtils] - java.lang.AssertionError: Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[INFO] 26-07-2024 16:21:40 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 16:21:40 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:21:40 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:21:40 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 26-07-2024 16:21:40 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:21:40 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 26-07-2024 16:21:41 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 26-07-2024 16:21:41 [main] [LogUtils] - Set text ubelibervalent1990w on By.cssSelector: #email
+[INFO] 26-07-2024 16:21:41 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 26-07-2024 16:21:41 [main] [LogUtils] - Set text d4af5a4dafd4 on By.cssSelector: #password
+[INFO] 26-07-2024 16:21:41 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 26-07-2024 16:21:41 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[ERROR] 26-07-2024 16:21:52 [main] [LogUtils] - Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[ERROR] 26-07-2024 16:21:52 [main] [LogUtils] - Test case:  is failed.
+[INFO] 26-07-2024 16:21:52 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (256c443e9ad4f7e39c720da6ae075aa2)
+[ERROR] 26-07-2024 16:21:52 [main] [LogUtils] - Test case:  is failed.
+[INFO] 26-07-2024 16:21:52 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (256c443e9ad4f7e39c720da6ae075aa2)
+[INFO] 26-07-2024 16:21:52 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 26-07-2024 17:45:48 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 17:45:52 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 17:45:53 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 17:45:53 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (8b55f93f40b3ad6d942be8ca1df68079)
+[INFO] 26-07-2024 17:45:53 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 17:45:53 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 17:45:53 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 17:46:02 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 17:46:05 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:00:23 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 18:00:26 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 18:00:26 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 18:00:26 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (d2b6e7a4eea88b18d17c4eaa128a1610)
+[INFO] 26-07-2024 18:00:26 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 18:00:26 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 18:00:26 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 18:00:35 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:00:40 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:00:40 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 26-07-2024 18:01:18 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 18:01:21 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 18:01:21 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 18:01:21 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (590e4af8a1ed34d551a50518f85b04eb)
+[INFO] 26-07-2024 18:01:21 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 18:01:21 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 18:01:21 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 18:01:29 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:01:34 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:01:34 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 26-07-2024 18:02:56 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 18:02:59 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 18:02:59 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 18:03:00 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (1fb674c74e6fdf58a0c2c3c4d5977862)
+[INFO] 26-07-2024 18:03:00 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 18:03:00 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 18:03:00 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 18:03:06 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:03:09 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:03:09 [main] [LogUtils] - Javascript in NOT Ready!
+[ERROR] 26-07-2024 18:03:10 [main] [LogUtils] - Element not exist. By.cssSelector: //button[text()='Register your eShop']
+[INFO] 26-07-2024 18:04:33 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 18:04:36 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 18:04:36 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 18:04:36 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (e05aeb42a60a20eca2bb8eb07375ac79)
+[INFO] 26-07-2024 18:04:36 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 18:04:36 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 18:04:36 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 18:04:42 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:04:45 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:04:45 [main] [LogUtils] - Javascript in NOT Ready!
+[ERROR] 26-07-2024 18:04:46 [main] [LogUtils] - Timeout waiting for the element to exist. By.cssSelector: //button[text()='Register your eShop']
+[INFO] 26-07-2024 18:06:58 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 18:07:01 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 18:07:01 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 18:07:01 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (2e5bc6ec38a2fc908727ab895ee2baaf)
+[INFO] 26-07-2024 18:07:01 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 18:07:01 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 18:07:01 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 18:07:10 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 26-07-2024 18:07:11 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:07:14 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:07:14 [main] [LogUtils] - Javascript in NOT Ready!
+[ERROR] 26-07-2024 18:07:15 [main] [LogUtils] - Timeout waiting for the element to exist. By.cssSelector: //h1[text()="MawadOnline"]
+[INFO] 26-07-2024 18:07:59 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 18:08:03 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 18:08:03 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 18:08:03 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (3add9f640176f60dc21eeb3796c2eceb)
+[INFO] 26-07-2024 18:08:03 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 18:08:03 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 18:08:03 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 18:08:09 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:08:13 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:08:13 [main] [LogUtils] - Javascript in NOT Ready!
+[ERROR] 26-07-2024 18:08:14 [main] [LogUtils] - The element is not visible. invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=126.0.6478.182)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3add9f640176f60dc21eeb3796c2eceb, findElement {using=css selector, value=//h1[text()="MawadOnline"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64801}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64801/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3add9f640176f60dc21eeb3796c2eceb
+[INFO] 26-07-2024 18:08:51 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 18:08:54 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 18:08:55 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 18:08:55 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (c68d4a9e51c50323bc6cd1374ce93a33)
+[INFO] 26-07-2024 18:08:55 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 18:08:55 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 18:08:55 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 18:09:03 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:09:06 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:09:07 [main] [LogUtils] - Javascript in NOT Ready!
+[ERROR] 26-07-2024 18:09:07 [main] [LogUtils] - The element is not visible. invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=126.0.6478.182)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c68d4a9e51c50323bc6cd1374ce93a33, findElement {value=//h1[text()="MawadOnline"], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64858}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64858/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c68d4a9e51c50323bc6cd1374ce93a33
+[INFO] 26-07-2024 18:10:16 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 18:10:19 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 18:10:19 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 18:10:19 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (0cfda13c30c4ce133034d447ed23537c)
+[INFO] 26-07-2024 18:10:19 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 18:10:19 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 18:10:19 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 18:10:28 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 26-07-2024 18:10:29 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:10:32 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 18:10:32 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 26-07-2024 18:10:33 [main] [LogUtils] - invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=126.0.6478.182)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0cfda13c30c4ce133034d447ed23537c, findElement {value=//button[text()='Register your eShop'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64939}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64939/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0cfda13c30c4ce133034d447ed23537c
+[ERROR] 26-07-2024 18:10:33 [main] [LogUtils] - Element not exist. By.cssSelector: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:12:25 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:12:30 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 19:12:30 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 19:12:30 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (ff7eb98efd663fdff4f8db01fff123c2)
+[INFO] 26-07-2024 19:12:30 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:12:30 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:12:30 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:12:41 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 26-07-2024 19:12:43 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:12:46 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:12:47 [main] [LogUtils] - Javascript in NOT Ready!
+[ERROR] 26-07-2024 19:12:47 [main] [LogUtils] - The element is not visible. invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=126.0.6478.182)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ff7eb98efd663fdff4f8db01fff123c2, findElement {value=//h1[text()="MawadOnline"], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49365}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49365/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ff7eb98efd663fdff4f8db01fff123c2
+[INFO] 26-07-2024 19:18:48 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:18:54 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 19:18:54 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 19:18:54 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (82915ef270b31c505d97820ffeb30fec)
+[INFO] 26-07-2024 19:18:54 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:18:54 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:18:54 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:19:03 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:19:06 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[ERROR] 26-07-2024 19:19:12 [main] [LogUtils] - The element is not visible. invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=126.0.6478.182)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [82915ef270b31c505d97820ffeb30fec, findElement {using=css selector, value=//h1[text()="MawadOnline"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49468}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49468/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 82915ef270b31c505d97820ffeb30fec
+[INFO] 26-07-2024 19:20:02 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:20:09 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 26-07-2024 19:20:09 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 26-07-2024 19:20:09 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (9c945263c33a3bf6e7bb0e8898faef4a)
+[INFO] 26-07-2024 19:20:09 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:20:09 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:20:09 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:20:15 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 26-07-2024 19:20:17 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:20:20 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[ERROR] 26-07-2024 19:20:25 [main] [LogUtils] - The element is not visible. invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=126.0.6478.182)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c945263c33a3bf6e7bb0e8898faef4a, findElement {value=//h1[text()="MawadOnline"], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49518}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49518/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c945263c33a3bf6e7bb0e8898faef4a
+[INFO] 26-07-2024 19:25:31 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:25:31 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:25:31 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:25:31 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 26-07-2024 19:25:32 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:25:42 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 26-07-2024 19:25:42 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (44749cbbee5cd0b891d996f2118bcd21)
+[INFO] 26-07-2024 19:25:42 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:25:42 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:25:42 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:25:42 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:25:57 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 26-07-2024 19:26:18 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:26:23 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:26:23 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:26:23 [main] [LogUtils] - Test case:  is starting...
+[ERROR] 26-07-2024 19:26:30 [main] [LogUtils] - The element is not visible. invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=126.0.6478.182)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [44749cbbee5cd0b891d996f2118bcd21, findElement {using=css selector, value=//h1[text()="MawadOnline"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49748}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49748/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 44749cbbee5cd0b891d996f2118bcd21
+[WARN] 26-07-2024 19:26:30 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 26-07-2024 19:26:40 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (44749cbbee5cd0b891d996f2118bcd21)
+[INFO] 26-07-2024 19:26:41 [main] [LogUtils] - Screenshot taken: selectEshopPackage
+[INFO] 26-07-2024 19:26:41 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/eshop-packages
+[ERROR] 26-07-2024 19:26:41 [main] [LogUtils] - FAILED !! Screenshot for test case: selectEshopPackage
+[ERROR] 26-07-2024 19:26:41 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for the element Visible. By.cssSelector: //h1[text()="MawadOnline"]
+[INFO] 26-07-2024 19:26:41 [main] [LogUtils] - Test case:  is starting...
+[ERROR] 26-07-2024 19:26:46 [main] [LogUtils] - The element is not visible. invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=126.0.6478.182)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [44749cbbee5cd0b891d996f2118bcd21, findElement {using=css selector, value=//h1[text()="MawadOnline"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49748}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49748/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 44749cbbee5cd0b891d996f2118bcd21
+[ERROR] 26-07-2024 19:26:46 [main] [LogUtils] - Test case:  is failed.
+[INFO] 26-07-2024 19:26:46 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (44749cbbee5cd0b891d996f2118bcd21)
+[INFO] 26-07-2024 19:26:47 [main] [LogUtils] - Screenshot taken: selectEshopPackage
+[INFO] 26-07-2024 19:26:47 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/eshop-packages
+[ERROR] 26-07-2024 19:26:57 [main] [LogUtils] - FAILED !! Screenshot for test case: selectEshopPackage
+[ERROR] 26-07-2024 19:26:57 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for the element Visible. By.cssSelector: //h1[text()="MawadOnline"]
+[INFO] 26-07-2024 19:27:02 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 26-07-2024 19:28:37 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:28:37 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:28:37 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:28:38 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 26-07-2024 19:28:38 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:28:47 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 26-07-2024 19:28:47 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (b55769bc2542320eb4bb893cf02bb65b)
+[INFO] 26-07-2024 19:28:48 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:28:48 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:28:48 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:28:48 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:29:00 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:29:03 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:29:03 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:29:03 [main] [LogUtils] - Test case:  is starting...
+[ERROR] 26-07-2024 19:29:08 [main] [LogUtils] - Element not exist. By.cssSelector: //button[text()='Register your eShop']
+[WARN] 26-07-2024 19:29:08 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 26-07-2024 19:29:19 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (b55769bc2542320eb4bb893cf02bb65b)
+[INFO] 26-07-2024 19:29:20 [main] [LogUtils] - Screenshot taken: selectEshopPackage
+[INFO] 26-07-2024 19:29:21 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/eshop-packages
+[ERROR] 26-07-2024 19:29:21 [main] [LogUtils] - FAILED !! Screenshot for test case: selectEshopPackage
+[ERROR] 26-07-2024 19:29:21 [main] [LogUtils] - java.lang.AssertionError: Element not exist. By.cssSelector: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:29:21 [main] [LogUtils] - Test case:  is starting...
+[ERROR] 26-07-2024 19:29:26 [main] [LogUtils] - Element not exist. By.cssSelector: //button[text()='Register your eShop']
+[ERROR] 26-07-2024 19:29:26 [main] [LogUtils] - Test case:  is failed.
+[INFO] 26-07-2024 19:29:26 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (b55769bc2542320eb4bb893cf02bb65b)
+[INFO] 26-07-2024 19:29:26 [main] [LogUtils] - Screenshot taken: selectEshopPackage
+[INFO] 26-07-2024 19:29:26 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/eshop-packages
+[ERROR] 26-07-2024 19:29:37 [main] [LogUtils] - FAILED !! Screenshot for test case: selectEshopPackage
+[ERROR] 26-07-2024 19:29:37 [main] [LogUtils] - java.lang.AssertionError: Element not exist. By.cssSelector: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:29:38 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 26-07-2024 19:30:24 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:30:24 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:30:24 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:30:25 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 26-07-2024 19:30:25 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:30:30 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 26-07-2024 19:30:31 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (cfd703d8dfcb8a03c9453eb948e699f6)
+[INFO] 26-07-2024 19:30:31 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:30:31 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:30:31 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:30:31 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:30:41 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:30:45 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:30:45 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:30:46 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:30:51 [main] [LogUtils] - Verify element visible By.xpath: //h1[text()="MawadOnline"]
+[INFO] 26-07-2024 19:30:51 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:30:52 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:30:52 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:30:54 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 26-07-2024 19:33:52 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:33:52 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:33:52 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:33:52 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 26-07-2024 19:33:53 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:33:57 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 26-07-2024 19:33:58 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (d90abb4533888b440890a5a8f9a70838)
+[INFO] 26-07-2024 19:33:58 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:33:58 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:33:58 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:33:58 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:34:06 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:34:10 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:34:10 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:34:11 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:34:16 [main] [LogUtils] - Verify element visible By.xpath: //h1[text()="MawadOnline"]
+[INFO] 26-07-2024 19:34:16 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:34:16 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:34:17 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 26-07-2024 19:34:18 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 26-07-2024 19:34:21 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 26-07-2024 19:34:21 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:34:24 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 26-07-2024 19:35:08 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:35:08 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:35:08 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:35:09 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 26-07-2024 19:35:09 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:35:14 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 26-07-2024 19:35:14 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (d45bbccf588ca78d759524a3f2973922)
+[INFO] 26-07-2024 19:35:14 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:35:14 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:35:14 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:35:14 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:35:18 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 26-07-2024 19:35:19 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:35:22 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:35:22 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:35:23 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:35:28 [main] [LogUtils] - Verify element visible By.xpath: //h1[text()="MawadOnline"]
+[INFO] 26-07-2024 19:35:28 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:35:29 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:35:29 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 26-07-2024 19:35:29 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 26-07-2024 19:35:34 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 26-07-2024 19:35:34 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:35:34 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 26-07-2024 19:37:29 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:37:29 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:37:29 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:37:29 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 26-07-2024 19:37:29 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:37:35 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 26-07-2024 19:37:35 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (a3207a832ff4a5df26bd905a51f8259f)
+[INFO] 26-07-2024 19:37:35 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:37:35 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:37:35 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:37:35 [main] [LogUtils] - Test case:  is starting...
+[WARN] 26-07-2024 19:38:37 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 26-07-2024 19:38:37 [main] [LogUtils] - Test case:  is starting...
+[ERROR] 26-07-2024 19:38:38 [main] [LogUtils] - Test case:  is failed.
+[INFO] 26-07-2024 19:38:38 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (a3207a832ff4a5df26bd905a51f8259f)
+[ERROR] 26-07-2024 19:38:38 [main] [LogUtils] - Test case:  is failed.
+[INFO] 26-07-2024 19:38:38 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (a3207a832ff4a5df26bd905a51f8259f)
+[INFO] 26-07-2024 19:38:38 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 26-07-2024 19:39:20 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:39:20 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:39:20 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:39:21 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 26-07-2024 19:39:21 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:39:30 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 26-07-2024 19:39:30 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (45d35fdd218c217a9b34a48888fdbf0d)
+[INFO] 26-07-2024 19:39:30 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:39:30 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:39:30 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:39:30 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:39:40 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:39:43 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:39:43 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:39:43 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:39:49 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:39:49 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:39:49 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 26-07-2024 19:39:53 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 26-07-2024 19:39:53 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:39:53 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 26-07-2024 19:40:38 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:40:38 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:40:38 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:40:39 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 26-07-2024 19:40:39 [main] [LogUtils] - Driver was null
+[INFO] 26-07-2024 19:40:45 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 26-07-2024 19:40:45 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (f85c419309de5a847c7095ea9b12bd14)
+[INFO] 26-07-2024 19:40:45 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 26-07-2024 19:40:45 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 26-07-2024 19:40:45 [main] [LogUtils] - Loaded all properties files.
+[INFO] 26-07-2024 19:40:46 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:40:54 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:40:57 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 26-07-2024 19:40:57 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:40:58 [main] [LogUtils] - Test case:  is starting...
+[INFO] 26-07-2024 19:40:58 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 26-07-2024 19:40:59 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:40:59 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 26-07-2024 19:40:59 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 26-07-2024 19:41:02 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 26-07-2024 19:41:02 [main] [LogUtils] - Test case:  is passed.
+[INFO] 26-07-2024 19:41:02 [main] [LogUtils] - End Suite: All Test Cases

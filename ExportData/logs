@@ -1,0 +1,60 @@
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "text" is null
+org.testng.TestNGException: 
+Cannot instantiate class listeners.ListenerTest
+	at org.testng.internal.objects.InstanceCreator.newInstance(InstanceCreator.java:41)
+	at org.testng.internal.objects.InstanceCreator.newInstance(InstanceCreator.java:59)
+	at org.testng.ITestObjectFactory.newInstance(ITestObjectFactory.java:10)
+	at org.testng.internal.objects.SimpleObjectDispenser.dispense(SimpleObjectDispenser.java:60)
+	at org.testng.internal.objects.GuiceBasedObjectDispenser.dispense(GuiceBasedObjectDispenser.java:28)
+	at org.testng.TestNG.addListeners(TestNG.java:1000)
+	at org.testng.TestNG.initializeConfiguration(TestNG.java:957)
+	at org.testng.TestNG.initializeEverything(TestNG.java:1048)
+	at org.testng.TestNG.run(TestNG.java:1059)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:79)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.testng.internal.objects.InstanceCreator.newInstance(InstanceCreator.java:38)
+	... 10 more
+Caused by: java.lang.ExceptionInInitializerError
+	at helpers.ScreenRecoderHelpers.<init>(ScreenRecoderHelpers.java:33)
+	at listeners.ListenerTest.<init>(ListenerTest.java:34)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	... 13 more
+Caused by: java.lang.NumberFormatException: Cannot parse null string
+	at java.base/java.lang.Integer.parseInt(Integer.java:627)
+	at java.base/java.lang.Integer.parseInt(Integer.java:781)
+	at constants.FrameworkConstants.<clinit>(FrameworkConstants.java:53)
+	... 16 more

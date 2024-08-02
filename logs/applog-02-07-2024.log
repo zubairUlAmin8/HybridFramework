@@ -1,0 +1,143 @@
+[INFO] 02-07-2024 13:26:27 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 02-07-2024 13:26:27 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 02-07-2024 13:26:27 [main] [LogUtils] - Loaded all properties files.
+[INFO] 02-07-2024 13:26:28 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 02-07-2024 13:26:28 [main] [LogUtils] - Driver was null
+[INFO] 02-07-2024 13:26:41 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 02-07-2024 13:26:41 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (d8594c720fc5c3660ecfe77141a86ab6)
+[INFO] 02-07-2024 13:26:41 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 02-07-2024 13:26:41 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 02-07-2024 13:26:41 [main] [LogUtils] - Loaded all properties files.
+[INFO] 02-07-2024 13:26:41 [main] [LogUtils] - Test case:  is starting...
+[INFO] 02-07-2024 13:26:50 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Login to Vendor']
+[INFO] 02-07-2024 13:26:54 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Login to Vendor']
+[INFO] 02-07-2024 13:26:54 [main] [LogUtils] - Test case:  is passed.
+[INFO] 02-07-2024 13:26:55 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 02-07-2024 13:26:55 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 02-07-2024 13:26:55 [main] [LogUtils] - Loaded all properties files.
+[INFO] 02-07-2024 13:26:55 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 02-07-2024 13:26:57 [main] [LogUtils] - Row: 19 - Column: 8
+[INFO] 02-07-2024 13:26:57 [main] [LogUtils] - StartRow: 1 - EndRow: 7
+[INFO] 02-07-2024 13:26:57 [main] [LogUtils] - Test case:  is starting...
+[INFO] 02-07-2024 13:26:58 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:26:58 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:26:58 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 02-07-2024 13:26:58 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:26:58 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 02-07-2024 13:26:58 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:26:58 [main] [LogUtils] - Set text  on By.cssSelector: #email
+[INFO] 02-07-2024 13:26:59 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:26:59 [main] [LogUtils] - Set text Qwerty003! on By.cssSelector: #password
+[INFO] 02-07-2024 13:26:59 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:26:59 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:00 [main] [LogUtils] - Verify element visible By.cssSelector: #error_message
+[INFO] 02-07-2024 13:27:01 [main] [LogUtils] - Test case:  is passed.
+[INFO] 02-07-2024 13:27:01 [main] [LogUtils] - Test case:  is starting...
+[INFO] 02-07-2024 13:27:01 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:01 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:02 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 02-07-2024 13:27:03 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:03 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 02-07-2024 13:27:03 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:03 [main] [LogUtils] - Set text ubelibervalent1990w on By.cssSelector: #email
+[INFO] 02-07-2024 13:27:04 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:04 [main] [LogUtils] - Set text  on By.cssSelector: #password
+[INFO] 02-07-2024 13:27:04 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:05 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:05 [main] [LogUtils] - Verify element visible By.cssSelector: #error_message
+[INFO] 02-07-2024 13:27:05 [main] [LogUtils] - Test case:  is passed.
+[INFO] 02-07-2024 13:27:05 [main] [LogUtils] - Test case:  is starting...
+[INFO] 02-07-2024 13:27:06 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:06 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:06 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 02-07-2024 13:27:06 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:06 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 02-07-2024 13:27:07 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:07 [main] [LogUtils] - Set text  on By.cssSelector: #email
+[INFO] 02-07-2024 13:27:07 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:07 [main] [LogUtils] - Set text  on By.cssSelector: #password
+[INFO] 02-07-2024 13:27:07 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:08 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:08 [main] [LogUtils] - Verify element visible By.cssSelector: #error_message
+[INFO] 02-07-2024 13:27:08 [main] [LogUtils] - Test case:  is passed.
+[INFO] 02-07-2024 13:27:08 [main] [LogUtils] - Test case:  is starting...
+[INFO] 02-07-2024 13:27:08 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:08 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:08 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 02-07-2024 13:27:09 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:09 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 02-07-2024 13:27:09 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:09 [main] [LogUtils] - Set text client@demo.com on By.cssSelector: #email
+[INFO] 02-07-2024 13:27:09 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:10 [main] [LogUtils] - Set text dw5AQDhu9+WsEsWisMJISA== on By.cssSelector: #password
+[INFO] 02-07-2024 13:27:10 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:10 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:14 [main] [LogUtils] - Verify element visible By.xpath: //strong[text()="These credentials do not match our records."]
+[INFO] 02-07-2024 13:27:14 [main] [LogUtils] - Test case:  is passed.
+[INFO] 02-07-2024 13:27:14 [main] [LogUtils] - Test case:  is starting...
+[INFO] 02-07-2024 13:27:15 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:15 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:15 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 02-07-2024 13:27:15 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:15 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 02-07-2024 13:27:16 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:16 [main] [LogUtils] - Set text ubelibervalent1990w on By.cssSelector: #email
+[INFO] 02-07-2024 13:27:16 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:16 [main] [LogUtils] - Set text d4af5a4dafd4 on By.cssSelector: #password
+[INFO] 02-07-2024 13:27:17 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:17 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:17 [main] [LogUtils] - Verify element visible By.xpath: //strong[text()="These credentials do not match our records."]
+[INFO] 02-07-2024 13:27:17 [main] [LogUtils] - Test case:  is passed.
+[INFO] 02-07-2024 13:27:17 [main] [LogUtils] - Test case:  is starting...
+[INFO] 02-07-2024 13:27:17 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:17 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:21 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 02-07-2024 13:27:21 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:21 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 02-07-2024 13:27:21 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:21 [main] [LogUtils] - Set text worngeusername on By.cssSelector: #email
+[INFO] 02-07-2024 13:27:21 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:22 [main] [LogUtils] - Set text Qwerty003! on By.cssSelector: #password
+[INFO] 02-07-2024 13:27:22 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:22 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[ERROR] 02-07-2024 13:27:32 [main] [LogUtils] - Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[WARN] 02-07-2024 13:27:32 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 02-07-2024 13:27:43 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (d8594c720fc5c3660ecfe77141a86ab6)
+[INFO] 02-07-2024 13:27:43 [main] [LogUtils] - Screenshot taken: vendorSignInDataDriven
+[INFO] 02-07-2024 13:27:43 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/vendor/login
+[ERROR] 02-07-2024 13:27:43 [main] [LogUtils] - FAILED !! Screenshot for test case: vendorSignInDataDriven
+[ERROR] 02-07-2024 13:27:43 [main] [LogUtils] - java.lang.AssertionError: Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[INFO] 02-07-2024 13:27:43 [main] [LogUtils] - Test case:  is starting...
+[INFO] 02-07-2024 13:27:44 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:44 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:44 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 02-07-2024 13:27:44 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:44 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 02-07-2024 13:27:44 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:27:44 [main] [LogUtils] - Set text worngeusername on By.cssSelector: #email
+[INFO] 02-07-2024 13:27:44 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:27:45 [main] [LogUtils] - Set text Qwerty003! on By.cssSelector: #password
+[INFO] 02-07-2024 13:27:45 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:27:45 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[ERROR] 02-07-2024 13:27:56 [main] [LogUtils] - Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[ERROR] 02-07-2024 13:27:56 [main] [LogUtils] - Test case:  is failed.
+[INFO] 02-07-2024 13:27:56 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (d8594c720fc5c3660ecfe77141a86ab6)
+[INFO] 02-07-2024 13:27:56 [main] [LogUtils] - Screenshot taken: vendorSignInDataDriven
+[INFO] 02-07-2024 13:27:56 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/vendor/login
+[ERROR] 02-07-2024 13:28:06 [main] [LogUtils] - FAILED !! Screenshot for test case: vendorSignInDataDriven
+[ERROR] 02-07-2024 13:28:06 [main] [LogUtils] - java.lang.AssertionError: Element not exist. By.xpath: //strong[text()="These credentials do not match our records."]
+[INFO] 02-07-2024 13:28:06 [main] [LogUtils] - Test case:  is starting...
+[INFO] 02-07-2024 13:28:06 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:28:07 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:28:07 [main] [LogUtils] - Clear value in textbox By.cssSelector: #email
+[INFO] 02-07-2024 13:28:07 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:28:07 [main] [LogUtils] - Clear value in textbox By.cssSelector: #password
+[INFO] 02-07-2024 13:28:07 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 02-07-2024 13:28:07 [main] [LogUtils] - Set text zubairulamin@YOPmail.com on By.cssSelector: #email
+[INFO] 02-07-2024 13:28:08 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 02-07-2024 13:28:08 [main] [LogUtils] - Set text Hexso915@AJM on By.cssSelector: #password
+[INFO] 02-07-2024 13:28:08 [main] [LogUtils] - Verify element visible By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:28:08 [main] [LogUtils] - Clicked on the element By.xpath: //span[text()="Login"]
+[INFO] 02-07-2024 13:28:13 [main] [LogUtils] - Verify element visible By.xpath: //h1[text()="Dashboard"]
+[INFO] 02-07-2024 13:28:13 [main] [LogUtils] - Test case:  is passed.
+[INFO] 02-07-2024 13:28:18 [main] [LogUtils] - End Suite: All Test Cases

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c0ba5bb-5416-40a0-b785-3ce9f2a8c1b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExportData/logs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtentReports/ExtentReports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoginPageElm/loginpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/BrowserInfoUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/IconUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/LanguageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/LogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/ObjectUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/ReportUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Two2FActorAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/fakerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/waits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/FrameworkAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constants/FrameworkConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constants/TestDataConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/driver/BrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/driver/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/driver/TargetFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/AuthorType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/CategoryType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/FailureHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Platform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/FrameworkException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/HeadlessNotSupportedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/InvalidPathForExcelException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/InvalidPathForExtentReportFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/InvalidPathForFilesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/InvalidRemoteWebDriverURLException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/TargetNotValidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/CaptureHelpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/ExcelHelpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/GMailHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/Helpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/PropertiesHelpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/ScreenRecoderHelpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/keywords/WebUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/objectRepo/LandingPageOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/objectRepo/LoginPageOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/objectRepo/UserSetupPageOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/path_repo/LandingPagePR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/path_repo/SignInPR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/web_elements/LandingPageElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/web_elements/SignInPageElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/web_pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/web_pages/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mawad/web_pages/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/messages/SuccessMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/DepartmentModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/JobFunctionModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/LocationModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/SignInModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/VendorPersonalInfoModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/report/AllureManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/report/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/report/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuits/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataprovider/DataProviderManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/AnnotationTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/ListenerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTestCase/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTestCase/verifyUserSignInDataDriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config/datatest.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/ClientsDataExcel.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/DOCX_File_01.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/LoginCSV.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/TxtFileData.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2iPk5bKho4seR95iFilU8ae2buc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.Lahebo [clean].executor": "Run",
+    "Maven.Lahebo [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.D:/Zapta/Automation/Mawad/src/test/java/TestSuits/TestNG.xml.executor": "Run",
+    "TestNG.verifyUserSignIn.executor": "Run",
+    "TestNG.verifyUserSignInDataDriven.executor": "Run",
+    "TestNG.verifyUserSignInDataDriven.superAdminSignInDataDriven.executor": "Run",
+    "TestNG.verifyVendorRegistration.addVendorBusinessInformation.executor": "Run",
+    "TestNG.verifyVendorRegistration.executor": "Run",
+    "TestNG.verifyVendorRegistration.goToLoginPage.executor": "Run",
+    "TestNG.verifyVendorRegistration.verifyGmailOTP.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Zapta/Automation/Mawad"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Zapta\Automation\Mawad" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="models" />
+      <recent name="mawad.web_elements" />
+      <recent name="mawad.web_pages" />
+      <recent name="mawad.objectRepo" />
+      <recent name="mawad.path_repo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Zapta/Automation/Mawad/src/test/java/TestSuits/TestNG.xml">
+    <configuration name="D:/Zapta/Automation/Mawad/src/test/java/TestSuits/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mawad" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestSuits/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="verifyVendorRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mawad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTestCase" />
+      <option name="MAIN_CLASS_NAME" value="webTestCase.verifyVendorRegistration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="verifyVendorRegistration.addVendorBusinessInformation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mawad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTestCase" />
+      <option name="MAIN_CLASS_NAME" value="webTestCase.verifyVendorRegistration" />
+      <option name="METHOD_NAME" value="addVendorBusinessInformation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="verifyVendorRegistration.goToLoginPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mawad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTestCase" />
+      <option name="MAIN_CLASS_NAME" value="webTestCase.verifyVendorRegistration" />
+      <option name="METHOD_NAME" value="goToLoginPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="verifyVendorRegistration.verifyGmailOTP" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mawad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTestCase" />
+      <option name="MAIN_CLASS_NAME" value="webTestCase.verifyVendorRegistration" />
+      <option name="METHOD_NAME" value="verifyGmailOTP" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Zapta/Automation/Mawad/src/test/java/TestSuits/TestNG.xml" />
+        <item itemvalue="TestNG.verifyVendorRegistration.addVendorBusinessInformation" />
+        <item itemvalue="TestNG.verifyVendorRegistration" />
+        <item itemvalue="TestNG.verifyVendorRegistration.verifyGmailOTP" />
+        <item itemvalue="TestNG.verifyVendorRegistration.goToLoginPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c0ba5bb-5416-40a0-b785-3ce9f2a8c1b3" name="Changes" comment="" />
+      <created>1719399420436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719399420436</updated>
+    </task>
+    <servers />
+  </component>
+</project>

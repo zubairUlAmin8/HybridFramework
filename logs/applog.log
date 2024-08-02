@@ -1,0 +1,952 @@
+[INFO] 30-07-2024 16:55:02 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 16:55:02 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 16:55:02 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 16:55:02 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 16:55:03 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 16:55:14 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 16:55:14 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (0fe3c8178b9c4f6f3b745072b7cbe0b1)
+[INFO] 30-07-2024 16:55:14 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 16:55:14 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 16:55:14 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 16:55:14 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 16:56:09 [main] [LogUtils] - Javascript in NOT Ready!
+[WARN] 30-07-2024 16:57:16 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 16:57:16 [main] [LogUtils] - Test case:  is starting...
+[ERROR] 30-07-2024 16:57:16 [main] [LogUtils] - Test case:  is failed.
+[INFO] 30-07-2024 16:57:16 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (0fe3c8178b9c4f6f3b745072b7cbe0b1)
+[ERROR] 30-07-2024 16:57:16 [main] [LogUtils] - Test case:  is failed.
+[INFO] 30-07-2024 16:57:16 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (0fe3c8178b9c4f6f3b745072b7cbe0b1)
+[INFO] 30-07-2024 16:57:17 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 30-07-2024 16:57:32 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 16:57:32 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 16:57:32 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 16:57:33 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 16:57:33 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 16:57:37 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 16:57:38 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (b3ed61d59987187dbf3858dc82225b39)
+[INFO] 30-07-2024 16:57:38 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 16:57:38 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 16:57:38 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 16:57:38 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 16:58:05 [main] [LogUtils] - Javascript in NOT Ready!
+[WARN] 30-07-2024 16:58:35 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 16:58:35 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 16:59:05 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:00:07 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:00:38 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:00:49 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:00:49 [main] [LogUtils] - Test case:  is passed.
+[ERROR] 30-07-2024 17:00:49 [main] [LogUtils] - Test case:  is failed.
+[INFO] 30-07-2024 17:00:49 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (b3ed61d59987187dbf3858dc82225b39)
+[INFO] 30-07-2024 17:00:50 [main] [LogUtils] - Screenshot taken: clickOnBecomeAVendor
+[INFO] 30-07-2024 17:00:50 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/eshop-packages
+[INFO] 30-07-2024 17:00:50 [main] [LogUtils] - Javascript in NOT Ready!
+[ERROR] 30-07-2024 17:01:05 [main] [LogUtils] - FAILED !! Screenshot for test case: clickOnBecomeAVendor
+[ERROR] 30-07-2024 17:01:05 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for page load (Javascript). (30s)
+[INFO] 30-07-2024 17:01:05 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:01:06 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:01:06 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:01:07 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:01:15 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:01:15 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:01:15 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:01:15 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:01:15 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:01:15 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 17:01:17 [main] [LogUtils] - Row: 17 - Column: 10
+[INFO] 30-07-2024 17:01:17 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 17:01:17 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:02:07 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[WARN] 30-07-2024 17:02:07 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 17:02:11 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (b3ed61d59987187dbf3858dc82225b39)
+[ERROR] 30-07-2024 17:02:11 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:02:11 [main] [LogUtils] - java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+[INFO] 30-07-2024 17:02:11 [main] [LogUtils] - Test case:  is starting...
+[ERROR] 30-07-2024 17:03:01 [main] [LogUtils] - Test case:  is failed.
+[INFO] 30-07-2024 17:03:01 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (b3ed61d59987187dbf3858dc82225b39)
+[ERROR] 30-07-2024 17:03:02 [main] [LogUtils] - Test case:  is failed.
+[INFO] 30-07-2024 17:03:02 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (b3ed61d59987187dbf3858dc82225b39)
+[INFO] 30-07-2024 17:03:02 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 30-07-2024 17:24:11 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 17:24:25 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:24:25 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:24:25 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:24:25 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 17:24:25 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 17:24:30 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 17:24:30 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (cb929dd528eebb4ae4eea2d03f7f7ae8)
+[INFO] 30-07-2024 17:24:30 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:24:30 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:24:30 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:24:30 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:24:40 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:24:49 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:24:53 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:24:53 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:24:53 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:24:53 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:24:55 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:24:55 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:24:55 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:25:02 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:25:02 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:25:02 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:25:02 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:25:02 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:25:02 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 17:25:05 [main] [LogUtils] - Row: 17 - Column: 10
+[INFO] 30-07-2024 17:25:05 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 17:25:05 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:25:55 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[WARN] 30-07-2024 17:25:55 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 17:26:05 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (cb929dd528eebb4ae4eea2d03f7f7ae8)
+[INFO] 30-07-2024 17:26:05 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 17:26:05 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=J6NhDEl41mdzdXmstPnDPEoV6QOCOGPW5sR2tNCA&package_id=4
+[ERROR] 30-07-2024 17:26:05 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:26:05 [main] [LogUtils] - java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+[INFO] 30-07-2024 17:26:06 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:27:28 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:27:28 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:27:28 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:27:29 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 17:27:29 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 17:27:34 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 17:27:34 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (cabd0345fe2e14324019fc4a217e2105)
+[INFO] 30-07-2024 17:27:34 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:27:34 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:27:34 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:27:34 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:27:44 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:27:55 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:28:01 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:28:01 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:28:01 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:28:01 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:28:04 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:28:04 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:28:04 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:28:11 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:28:11 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:28:11 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:28:11 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:28:11 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:28:11 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 17:28:13 [main] [LogUtils] - Row: 1 - Column: 19
+[INFO] 30-07-2024 17:28:13 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 17:28:13 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:29:03 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:29:04 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:29:04 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:29:04 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:29:05 [main] [LogUtils] - Scroll to element By.xpath: //input[@name="trade_license_doc"]
+[ERROR] 30-07-2024 17:29:15 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //input[@name="trade_license_doc"]
+[WARN] 30-07-2024 17:29:15 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 17:29:26 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (cabd0345fe2e14324019fc4a217e2105)
+[INFO] 30-07-2024 17:29:26 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 17:29:26 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=DbhyMYu7gB3cenVN2D0eEYIRkoF6jiIpaKq5ajWV&package_id=4
+[ERROR] 30-07-2024 17:29:26 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:29:26 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for the element Visible. By.xpath: //input[@name="trade_license_doc"]
+[INFO] 30-07-2024 17:29:26 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:30:17 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:30:18 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:30:18 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:30:18 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:30:20 [main] [LogUtils] - Scroll to element By.xpath: //input[@name="trade_license_doc"]
+[ERROR] 30-07-2024 17:30:30 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //input[@name="trade_license_doc"]
+[ERROR] 30-07-2024 17:30:30 [main] [LogUtils] - Test case:  is failed.
+[INFO] 30-07-2024 17:30:30 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (cabd0345fe2e14324019fc4a217e2105)
+[INFO] 30-07-2024 17:30:31 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 17:30:31 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=DbhyMYu7gB3cenVN2D0eEYIRkoF6jiIpaKq5ajWV&package_id=4
+[ERROR] 30-07-2024 17:30:41 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:30:41 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for the element Visible. By.xpath: //input[@name="trade_license_doc"]
+[INFO] 30-07-2024 17:30:41 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 30-07-2024 17:33:04 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:33:04 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:33:04 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:33:05 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 17:33:05 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 17:33:11 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 17:33:11 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (f21f827a4ca99129ccb6c765bfca2b03)
+[INFO] 30-07-2024 17:33:11 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:33:11 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:33:11 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:33:11 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:33:38 [main] [LogUtils] - Javascript in NOT Ready!
+[WARN] 30-07-2024 17:34:10 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 17:34:10 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:34:23 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (f21f827a4ca99129ccb6c765bfca2b03)
+[INFO] 30-07-2024 17:34:23 [main] [LogUtils] - Screenshot taken: clickOnBecomeAVendor
+[INFO] 30-07-2024 17:34:23 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/eshop-packages
+[ERROR] 30-07-2024 17:34:23 [main] [LogUtils] - FAILED !! Screenshot for test case: clickOnBecomeAVendor
+[ERROR] 30-07-2024 17:34:23 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for page load (Javascript). (30s)
+[INFO] 30-07-2024 17:34:24 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:34:30 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:34:34 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:34:41 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:34:41 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:34:41 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:34:41 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:34:47 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:34:47 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:34:48 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:34:53 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:34:53 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:34:53 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:34:53 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:34:53 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:34:53 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 17:34:54 [main] [LogUtils] - Row: 1 - Column: 19
+[INFO] 30-07-2024 17:34:54 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 17:34:54 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:35:44 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:35:45 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:35:45 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:35:45 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:35:46 [main] [LogUtils] - Scroll to element By.xpath: //input[@name="trade_license_doc"]
+[ERROR] 30-07-2024 17:35:56 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //input[@name="trade_license_doc"]
+[WARN] 30-07-2024 17:35:56 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 17:36:07 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (f21f827a4ca99129ccb6c765bfca2b03)
+[INFO] 30-07-2024 17:36:07 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 17:36:07 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=o8XIozyFlweKLoZnygOxe6QfsRoUNS4pMAVV5uQm&package_id=4
+[ERROR] 30-07-2024 17:36:07 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:36:07 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for the element Visible. By.xpath: //input[@name="trade_license_doc"]
+[INFO] 30-07-2024 17:36:07 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:40:14 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 17:40:17 [main] [LogUtils] - Driver is Just Initialized
+[INFO] 30-07-2024 17:40:17 [main] [LogUtils] - Driver is already Intialized Initialized: dataDrivenTestCases
+[ERROR] 30-07-2024 17:40:17 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (c5f0f730ec5c182704e55141a1e08672)
+[INFO] 30-07-2024 17:40:17 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:40:17 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:40:17 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:40:17 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:40:17 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:40:17 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:40:17 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 17:40:19 [main] [LogUtils] - Row: 1 - Column: 19
+[INFO] 30-07-2024 17:40:19 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[ERROR] 30-07-2024 17:40:29 [main] [LogUtils] - Element not exist. By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:40:59 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:40:59 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:40:59 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:40:59 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 17:41:00 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 17:41:04 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 17:41:04 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (c458df6a85fbd78fef5b7014fe8e4f1c)
+[INFO] 30-07-2024 17:41:05 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:41:05 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:41:05 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:41:05 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:41:12 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:41:33 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:41:33 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:41:33 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:41:33 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:41:36 [main] [LogUtils] - no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='Register your eShop']"}
+  (Session info: chrome=126.0.6478.182)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c458df6a85fbd78fef5b7014fe8e4f1c, findElement {using=xpath, value=//button[text()='Register your eShop']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50467}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50467/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c458df6a85fbd78fef5b7014fe8e4f1c
+[ERROR] 30-07-2024 17:41:46 [main] [LogUtils] - Element not exist. By.xpath: //button[text()='Register your eShop']
+[WARN] 30-07-2024 17:41:46 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 17:42:00 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (c458df6a85fbd78fef5b7014fe8e4f1c)
+[INFO] 30-07-2024 17:42:00 [main] [LogUtils] - Screenshot taken: selectEshopPackage
+[INFO] 30-07-2024 17:42:00 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/eshop-packages
+[ERROR] 30-07-2024 17:42:00 [main] [LogUtils] - FAILED !! Screenshot for test case: selectEshopPackage
+[ERROR] 30-07-2024 17:42:00 [main] [LogUtils] - java.lang.AssertionError: Element not exist. By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:42:00 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:42:00 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:42:04 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:42:04 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:42:05 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:42:12 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:42:12 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:42:12 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:42:12 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:42:12 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:42:12 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 17:42:14 [main] [LogUtils] - Row: 1 - Column: 19
+[INFO] 30-07-2024 17:42:14 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 17:42:14 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:42:15 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:42:18 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:42:19 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:42:19 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:42:19 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:42:19 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:42:19 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:42:19 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:42:19 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:42:20 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:42:20 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:42:20 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:42:20 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:42:20 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 17:42:21 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 17:42:21 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:42:21 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:42:21 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:42:22 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:42:22 [main] [LogUtils] - Wait Over!! size of list: 2
+[INFO] 30-07-2024 17:42:22 [main] [LogUtils] - Index number: 2 iteration: 2
+[INFO] 30-07-2024 17:42:22 [main] [LogUtils] - element not interactable
+  (Session info: chrome=126.0.6478.182)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c458df6a85fbd78fef5b7014fe8e4f1c, clickElement {id=f.E62CB3D5B0094A23AF36F419C77F42E4.d.A9FA2AD63B774664596DBC0F52ED7F11.e.267}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50467}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50467/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c458df6a85fbd78fef5b7014fe8e4f1c)] -> id: emirateempire]
+Session ID: c458df6a85fbd78fef5b7014fe8e4f1c
+[INFO] 30-07-2024 17:42:22 [main] [LogUtils] - waiting for List Items to Load
+[INFO] 30-07-2024 17:42:22 [main] [LogUtils] - Wait Over!! size of list: 1
+[INFO] 30-07-2024 17:42:22 [main] [LogUtils] - Index number: 1 iteration: 1
+[INFO] 30-07-2024 17:42:23 [main] [LogUtils] - element click intercepted: Element is not clickable at point (1102, 831)
+  (Session info: chrome=126.0.6478.182)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c458df6a85fbd78fef5b7014fe8e4f1c, clickElement {id=f.E62CB3D5B0094A23AF36F419C77F42E4.d.A9FA2AD63B774664596DBC0F52ED7F11.e.245}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50467}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50467/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c458df6a85fbd78fef5b7014fe8e4f1c)] -> id: areaempire]
+Session ID: c458df6a85fbd78fef5b7014fe8e4f1c
+[INFO] 30-07-2024 17:42:23 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:42:23 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:42:23 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:42:23 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:42:24 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:42:24 [main] [LogUtils] - Set text 145 on By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:42:24 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:42:24 [main] [LogUtils] - Set text 1561 on By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:42:24 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:42:24 [main] [LogUtils] - Set text 804545615 on By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:42:24 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:42:25 [main] [LogUtils] - Set text  on By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:42:26 [main] [LogUtils] - Scroll to element By.xpath: //button[text()="Next" and @data-action="register"]
+[ERROR] 30-07-2024 17:42:36 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //button[text()="Next" and @data-action="register"]
+[WARN] 30-07-2024 17:42:36 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 17:42:46 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (c458df6a85fbd78fef5b7014fe8e4f1c)
+[INFO] 30-07-2024 17:42:46 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 17:42:46 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=hcBPqIcEVkRbsR3jiUMgDYrBhuenbA1HfrTWXn9o&package_id=4
+[ERROR] 30-07-2024 17:42:46 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:42:46 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for the element Visible. By.xpath: //button[text()="Next" and @data-action="register"]
+[INFO] 30-07-2024 17:42:47 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:42:47 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:42:47 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:42:48 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:42:48 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:42:48 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:42:48 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:42:48 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:42:48 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:42:48 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:42:49 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:42:49 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:42:49 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:42:49 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - Wait Over!! size of list: 2
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - Index number: 2 iteration: 2
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - element not interactable
+  (Session info: chrome=126.0.6478.182)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c458df6a85fbd78fef5b7014fe8e4f1c, clickElement {id=f.E62CB3D5B0094A23AF36F419C77F42E4.d.A9FA2AD63B774664596DBC0F52ED7F11.e.267}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50467}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50467/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c458df6a85fbd78fef5b7014fe8e4f1c)] -> id: emirateempire]
+Session ID: c458df6a85fbd78fef5b7014fe8e4f1c
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - waiting for List Items to Load
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - Wait Over!! size of list: 1
+[INFO] 30-07-2024 17:42:50 [main] [LogUtils] - Index number: 1 iteration: 1
+[INFO] 30-07-2024 17:42:51 [main] [LogUtils] - 1 :Please Choose Selected 
+[INFO] 30-07-2024 17:42:51 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:42:51 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:42:51 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:42:51 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:42:51 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:42:51 [main] [LogUtils] - Set text 145 on By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:42:52 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:42:52 [main] [LogUtils] - Set text 1561 on By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:42:52 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:42:52 [main] [LogUtils] - Set text 804545615 on By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:42:52 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:42:52 [main] [LogUtils] - Set text  on By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:42:53 [main] [LogUtils] - Scroll to element By.xpath: //button[text()="Next" and @data-action="register"]
+[ERROR] 30-07-2024 17:43:04 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //button[text()="Next" and @data-action="register"]
+[ERROR] 30-07-2024 17:43:04 [main] [LogUtils] - Test case:  is failed.
+[INFO] 30-07-2024 17:43:04 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (c458df6a85fbd78fef5b7014fe8e4f1c)
+[INFO] 30-07-2024 17:43:04 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 17:43:04 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=hcBPqIcEVkRbsR3jiUMgDYrBhuenbA1HfrTWXn9o&package_id=4
+[ERROR] 30-07-2024 17:43:14 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:43:14 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for the element Visible. By.xpath: //button[text()="Next" and @data-action="register"]
+[INFO] 30-07-2024 17:43:15 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 30-07-2024 17:45:48 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:45:48 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:45:48 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:45:48 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 17:45:48 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 17:45:52 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 17:45:52 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (d3834ac7ba658f8b386b80573569ca43)
+[INFO] 30-07-2024 17:45:52 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:45:52 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:45:52 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:45:52 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:46:22 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:46:30 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:46:30 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:46:31 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:46:31 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:46:34 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:46:34 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:46:34 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:46:41 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:46:41 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:46:41 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:46:41 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:46:41 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:46:41 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 17:46:42 [main] [LogUtils] - Row: 1 - Column: 19
+[INFO] 30-07-2024 17:46:42 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 17:46:42 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:46:43 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:46:48 [main] [LogUtils] - Scroll to element By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:46:48 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:46:48 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:46:48 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:46:48 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:46:49 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:46:49 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:46:49 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:46:49 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:46:49 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:46:50 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:46:50 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:46:50 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 17:46:50 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 17:46:50 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:46:51 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:46:51 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:46:51 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:46:51 [main] [LogUtils] - Wait Over!! size of list: 2
+[INFO] 30-07-2024 17:46:51 [main] [LogUtils] - Index number: 2 iteration: 2
+[INFO] 30-07-2024 17:46:51 [main] [LogUtils] - element not interactable
+  (Session info: chrome=126.0.6478.182)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d3834ac7ba658f8b386b80573569ca43, clickElement {id=f.AE8B332ABA6B458A3D8C824DAD912C43.d.E3AB868256CB81499E3D4709CBC8EDEF.e.198}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50927}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50927/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d3834ac7ba658f8b386b80573569ca43)] -> id: emirateempire]
+Session ID: d3834ac7ba658f8b386b80573569ca43
+[INFO] 30-07-2024 17:46:51 [main] [LogUtils] - waiting for List Items to Load
+[INFO] 30-07-2024 17:46:51 [main] [LogUtils] - Wait Over!! size of list: 1
+[INFO] 30-07-2024 17:46:51 [main] [LogUtils] - Index number: 1 iteration: 1
+[INFO] 30-07-2024 17:46:52 [main] [LogUtils] - element click intercepted: Element is not clickable at point (1102, 831)
+  (Session info: chrome=126.0.6478.182)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d3834ac7ba658f8b386b80573569ca43, clickElement {id=f.AE8B332ABA6B458A3D8C824DAD912C43.d.E3AB868256CB81499E3D4709CBC8EDEF.e.176}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.182, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\ZuBi\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50927}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50927/devtoo..., se:cdpVersion: 126.0.6478.182, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d3834ac7ba658f8b386b80573569ca43)] -> id: areaempire]
+Session ID: d3834ac7ba658f8b386b80573569ca43
+[INFO] 30-07-2024 17:46:53 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:46:53 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:46:53 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:46:53 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:46:53 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:46:53 [main] [LogUtils] - Set text 145 on By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:46:53 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:46:54 [main] [LogUtils] - Set text 1561 on By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:46:54 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:46:54 [main] [LogUtils] - Set text 804545615 on By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:46:54 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:46:54 [main] [LogUtils] - Set text  on By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:46:55 [main] [LogUtils] - Scroll to element By.xpath: //button[text()="Next" and @data-action="register"]
+[ERROR] 30-07-2024 17:47:06 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //button[text()="Next" and @data-action="register"]
+[WARN] 30-07-2024 17:47:06 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 17:52:03 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:52:03 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:52:03 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:52:03 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 17:52:03 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 17:52:07 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 17:52:07 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (555fbe3f2dcb1d5c8d77d32b9cc20586)
+[INFO] 30-07-2024 17:52:07 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:52:07 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:52:07 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:52:07 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:53:08 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:53:12 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:53:12 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:53:13 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:53:13 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:53:14 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:53:14 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:53:15 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:53:20 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:53:20 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:53:20 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:53:20 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:53:20 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:53:20 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 17:53:22 [main] [LogUtils] - Row: 1 - Column: 19
+[INFO] 30-07-2024 17:53:22 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 17:53:22 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:53:23 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:53:23 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:53:23 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:53:23 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:53:24 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:53:24 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:53:24 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:53:24 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:53:24 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:53:25 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:53:25 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:53:25 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:53:25 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 17:53:25 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 17:53:26 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:53:26 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[WARN] 30-07-2024 17:53:26 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 17:53:37 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (555fbe3f2dcb1d5c8d77d32b9cc20586)
+[INFO] 30-07-2024 17:53:37 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 17:53:37 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=2jx2GGtQcvRjOqgzkMAJ9kvWTy4M6E1Wjdh2cNV9&package_id=4
+[ERROR] 30-07-2024 17:53:37 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:53:37 [main] [LogUtils] - org.openqa.selenium.NoSuchElementException: Cannot locate option with index: 1
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: driver.version: unknown
+[INFO] 30-07-2024 17:53:37 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:53:38 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:53:38 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:53:38 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:53:38 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:53:39 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:53:39 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:53:39 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:53:39 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:53:39 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:53:40 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:53:40 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:53:40 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:53:40 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 17:53:40 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 17:53:41 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:53:41 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:53:42 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:53:42 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:53:42 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:53:42 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:53:42 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:53:43 [main] [LogUtils] - Set text 145 on By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:53:43 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:53:43 [main] [LogUtils] - Set text 1561 on By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:53:43 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:53:44 [main] [LogUtils] - Set text 804545615 on By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:53:44 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:53:44 [main] [LogUtils] - Set text  on By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:53:45 [main] [LogUtils] - Scroll to element By.xpath: //button[text()="Next" and @data-action="register"]
+[ERROR] 30-07-2024 17:53:56 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //button[text()="Next" and @data-action="register"]
+[ERROR] 30-07-2024 17:53:56 [main] [LogUtils] - Test case:  is failed.
+[INFO] 30-07-2024 17:53:56 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (555fbe3f2dcb1d5c8d77d32b9cc20586)
+[INFO] 30-07-2024 17:53:56 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 17:53:56 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=2jx2GGtQcvRjOqgzkMAJ9kvWTy4M6E1Wjdh2cNV9&package_id=4
+[ERROR] 30-07-2024 17:54:06 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:54:06 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for the element Visible. By.xpath: //button[text()="Next" and @data-action="register"]
+[INFO] 30-07-2024 17:54:06 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 30-07-2024 17:55:28 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:55:28 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:55:28 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:55:29 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 17:55:29 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 17:55:34 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 17:55:34 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (5e3569ab8838cad52083dec2919df464)
+[INFO] 30-07-2024 17:55:34 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:55:34 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:55:34 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:55:34 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:55:40 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:55:41 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:55:44 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:55:44 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:55:44 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:55:44 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:55:46 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:55:46 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:55:46 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:55:50 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:55:50 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:55:50 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:55:50 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:55:50 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:55:50 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 17:55:52 [main] [LogUtils] - Row: 1 - Column: 19
+[INFO] 30-07-2024 17:55:52 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 17:55:52 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:55:53 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:55:53 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:55:53 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:55:54 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:55:54 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:55:54 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:55:54 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:55:55 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:55:55 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:55:55 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:55:55 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:55:56 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:55:56 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 17:55:57 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 17:55:57 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:55:58 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[WARN] 30-07-2024 17:55:58 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 17:56:09 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (5e3569ab8838cad52083dec2919df464)
+[INFO] 30-07-2024 17:56:09 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 17:56:09 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=yPlzZer2fWHz70N3zIhguNR72hQ9iwvjS2TJhBOK&package_id=4
+[ERROR] 30-07-2024 17:56:09 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:56:09 [main] [LogUtils] - org.openqa.selenium.NoSuchElementException: Cannot locate option with index: 2
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: driver.version: unknown
+[INFO] 30-07-2024 17:56:09 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:56:10 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:56:10 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:56:11 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:56:11 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:56:11 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:56:11 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:56:11 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:56:12 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:56:12 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:56:12 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:56:12 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:56:12 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:56:12 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 17:56:13 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 17:56:13 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:56:13 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:56:14 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:56:14 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:56:14 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:56:14 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:56:14 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:56:14 [main] [LogUtils] - Set text 145 on By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:56:15 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:56:15 [main] [LogUtils] - Set text 1561 on By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:56:15 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:56:15 [main] [LogUtils] - Set text 804545615 on By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:56:15 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:56:15 [main] [LogUtils] - Set text  on By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:56:17 [main] [LogUtils] - Scroll to element By.xpath: //button[text()="Next" and @data-action="register"]
+[ERROR] 30-07-2024 17:56:27 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //button[text()="Next" and @data-action="register"]
+[ERROR] 30-07-2024 17:56:27 [main] [LogUtils] - Test case:  is failed.
+[INFO] 30-07-2024 17:56:27 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (5e3569ab8838cad52083dec2919df464)
+[INFO] 30-07-2024 17:56:27 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 17:56:27 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=yPlzZer2fWHz70N3zIhguNR72hQ9iwvjS2TJhBOK&package_id=4
+[ERROR] 30-07-2024 17:56:37 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 17:56:37 [main] [LogUtils] - java.lang.AssertionError: Timeout waiting for the element Visible. By.xpath: //button[text()="Next" and @data-action="register"]
+[INFO] 30-07-2024 17:56:38 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 30-07-2024 17:56:56 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:56:56 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:56:56 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:56:57 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 17:56:57 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 17:57:01 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 17:57:01 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (c36f7058ffdba71ffe581e20f8fdbab0)
+[INFO] 30-07-2024 17:57:01 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:57:01 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:57:01 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:57:01 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:57:11 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:57:25 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:57:36 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 17:57:36 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:57:36 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:57:36 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:57:39 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:57:40 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 17:57:40 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:58:12 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 17:58:12 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 17:58:12 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 17:58:12 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 17:58:12 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 17:58:12 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 17:58:14 [main] [LogUtils] - Row: 1 - Column: 19
+[INFO] 30-07-2024 17:58:14 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 17:58:14 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 17:58:20 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 17:58:22 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:58:22 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 17:58:22 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:58:22 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 17:58:22 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:58:23 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 17:58:23 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:58:23 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 17:58:23 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:58:23 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 17:58:23 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:58:24 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 17:58:24 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 17:58:24 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 17:58:24 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:58:25 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 17:58:26 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:58:26 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 17:58:26 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:58:26 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 17:58:26 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:58:26 [main] [LogUtils] - Set text 145 on By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 17:58:27 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:58:27 [main] [LogUtils] - Set text 1561 on By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 17:58:27 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:58:27 [main] [LogUtils] - Set text 804545615 on By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 17:58:27 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:58:27 [main] [LogUtils] - Set text  on By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 17:58:28 [main] [LogUtils] - Scroll to element By.xpath: //button[text()="Next" and @data-action="register"]
+[ERROR] 30-07-2024 17:58:39 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //button[text()="Next" and @data-action="register"]
+[WARN] 30-07-2024 17:58:39 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 18:52:41 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 18:52:41 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 18:52:41 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 18:52:42 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 18:52:42 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 18:52:46 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 18:52:46 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (2667be2f3e598f4da1e52cf2c4204329)
+[INFO] 30-07-2024 18:52:46 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 18:52:46 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 18:52:46 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 18:52:46 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 18:55:39 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 18:55:43 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 18:55:44 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 18:55:44 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 18:55:45 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 18:55:45 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 18:55:45 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 18:55:48 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 18:55:48 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 18:55:48 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 18:55:48 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 18:55:48 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 18:55:48 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 18:55:50 [main] [LogUtils] - Row: 17 - Column: 10
+[INFO] 30-07-2024 18:55:50 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 18:55:50 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 18:55:50 [main] [LogUtils] - Verify element visible By.cssSelector: #first_name
+[INFO] 30-07-2024 18:55:50 [main] [LogUtils] - Set text John on By.cssSelector: #first_name
+[INFO] 30-07-2024 18:55:50 [main] [LogUtils] - Verify element visible By.cssSelector: #last_name
+[INFO] 30-07-2024 18:55:50 [main] [LogUtils] - Set text Pual on By.cssSelector: #last_name
+[INFO] 30-07-2024 18:55:50 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 30-07-2024 18:55:51 [main] [LogUtils] - Set text zubairarain888+912@gmail.com on By.cssSelector: #email
+[INFO] 30-07-2024 18:55:51 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 30-07-2024 18:55:51 [main] [LogUtils] - Set text Hexso915@AJM on By.cssSelector: #password
+[INFO] 30-07-2024 18:55:51 [main] [LogUtils] - Verify element visible By.cssSelector: #password_confirmation
+[INFO] 30-07-2024 18:55:51 [main] [LogUtils] - Set text Hexso915@AJM on By.cssSelector: #password_confirmation
+[INFO] 30-07-2024 18:55:52 [main] [LogUtils] - Verify element visible By.xpath: //button[text()="Next" and @data-action="register"]
+[INFO] 30-07-2024 18:55:53 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 18:55:53 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 18:55:58 [main] [LogUtils] - Mail send time : Mon Jul 29 18:55:58 PKT 2024
+[INFO] 30-07-2024 18:55:59 [main] [LogUtils] - Connects to Message Store
+[INFO] 30-07-2024 18:56:01 [main] [LogUtils] - Opens folder : INBOX
+[INFO] 30-07-2024 18:56:01 [main] [LogUtils] - Creates search condition for Folder : INBOX. Searching message with Subject line : Verification Code Email
+[INFO] 30-07-2024 18:56:01 [main] [LogUtils] - Performs search through the folder : INBOX
+[INFO] 30-07-2024 18:56:02 [main] [LogUtils] - Number of messages found : 1
+[INFO] 30-07-2024 18:56:02 [main] [LogUtils] - Disconnecting...
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - size of list of message: 1
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Message Subject : Verification Code Email
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Yes found it Message has been found 
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Before Refining OTP Code(Gmail Inbox):  537560
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - After Refining OTP Code(Gmail Inbox): 537560
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="verification_code"]
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Set text 537560 on By.xpath: //input[@name="verification_code"]
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Verify element visible By.xpath: //button[@id="verifyCodeBtn"]
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Clicked on the element By.xpath: //button[@id="verifyCodeBtn"]
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 18:56:03 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 18:56:04 [main] [LogUtils] - Row: 1 - Column: 19
+[INFO] 30-07-2024 18:56:04 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 18:56:04 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 18:56:05 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 18:56:05 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 18:56:05 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 18:56:05 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 18:56:05 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 18:56:06 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 18:56:06 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 18:56:06 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 18:56:06 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 18:56:06 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 18:56:06 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 18:56:07 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 18:56:07 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 18:56:07 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 18:56:07 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 18:56:08 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 18:56:09 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 18:56:10 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 18:56:10 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 18:56:10 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 18:56:10 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 18:56:10 [main] [LogUtils] - Set text 145 on By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 18:56:11 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 18:56:11 [main] [LogUtils] - Set text 1561 on By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 18:56:11 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 18:56:11 [main] [LogUtils] - Set text 804545615 on By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 18:56:11 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 18:56:11 [main] [LogUtils] - Set text 804545615 on By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 18:56:12 [main] [LogUtils] - Verify element visible By.xpath: //*[@id="businessInfoForm"]/div[2]/button[2]
+[INFO] 30-07-2024 18:56:13 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 18:56:13 [main] [LogUtils] - End Suite: All Test Cases
+[INFO] 30-07-2024 19:02:16 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 19:02:16 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 19:02:16 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 19:02:16 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 19:02:16 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 19:02:21 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 19:02:21 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (c7d5bd78ee7e8d28f823e8b428c13690)
+[INFO] 30-07-2024 19:02:21 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 19:02:21 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 19:02:21 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 19:02:21 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 19:02:43 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 19:04:21 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 19:04:21 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 19:04:21 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 19:04:21 [main] [LogUtils] - Starting Suite: All Test Cases
+[INFO] 30-07-2024 19:04:21 [main] [LogUtils] - Driver was null
+[INFO] 30-07-2024 19:04:25 [main] [LogUtils] - Driver is Just Initialized
+[ERROR] 30-07-2024 19:04:25 [main] [LogUtils] - driver value: ChromeDriver: chrome on windows (be20137f06e39ed1b8974bf8488ac0c0)
+[INFO] 30-07-2024 19:04:25 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 19:04:25 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 19:04:25 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 19:04:25 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 19:04:43 [main] [LogUtils] - Verify element visible By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 19:04:50 [main] [LogUtils] - Clicked on the element By.xpath: //a[text()='Become a Vendor !']
+[INFO] 30-07-2024 19:04:50 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 19:04:50 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 19:04:50 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 19:04:53 [main] [LogUtils] - Verify element visible By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 19:04:54 [main] [LogUtils] - Clicked on the element By.xpath: //button[text()='Register your eShop']
+[INFO] 30-07-2024 19:04:54 [main] [LogUtils] - Verify element visible By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 19:05:00 [main] [LogUtils] - Clicked on the element By.xpath: //button[@type="submit"][text()="OK"]
+[INFO] 30-07-2024 19:05:00 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 19:05:00 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 19:05:00 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 19:05:00 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 19:05:00 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 19:05:02 [main] [LogUtils] - Row: 17 - Column: 10
+[INFO] 30-07-2024 19:05:02 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 19:05:02 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 19:05:02 [main] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 19:05:03 [main] [LogUtils] - Verify element visible By.cssSelector: #first_name
+[INFO] 30-07-2024 19:05:03 [main] [LogUtils] - Set text John on By.cssSelector: #first_name
+[INFO] 30-07-2024 19:05:03 [main] [LogUtils] - Verify element visible By.cssSelector: #last_name
+[INFO] 30-07-2024 19:05:04 [main] [LogUtils] - Set text Pual on By.cssSelector: #last_name
+[INFO] 30-07-2024 19:05:04 [main] [LogUtils] - Verify element visible By.cssSelector: #email
+[INFO] 30-07-2024 19:05:04 [main] [LogUtils] - Set text zubairarain888+24@gmail.com on By.cssSelector: #email
+[INFO] 30-07-2024 19:05:04 [main] [LogUtils] - Verify element visible By.cssSelector: #password
+[INFO] 30-07-2024 19:05:04 [main] [LogUtils] - Set text Hexso915@AJM on By.cssSelector: #password
+[INFO] 30-07-2024 19:05:05 [main] [LogUtils] - Verify element visible By.cssSelector: #password_confirmation
+[INFO] 30-07-2024 19:05:05 [main] [LogUtils] - Set text Hexso915@AJM on By.cssSelector: #password_confirmation
+[INFO] 30-07-2024 19:05:05 [main] [LogUtils] - Verify element visible By.xpath: //button[text()="Next" and @data-action="register"]
+[INFO] 30-07-2024 19:05:07 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 19:05:07 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 19:05:12 [main] [LogUtils] - Mail send time : Mon Jul 29 19:05:12 PKT 2024
+[INFO] 30-07-2024 19:05:12 [main] [LogUtils] - Connects to Message Store
+[INFO] 30-07-2024 19:05:14 [main] [LogUtils] - Opens folder : INBOX
+[INFO] 30-07-2024 19:05:14 [main] [LogUtils] - Creates search condition for Folder : INBOX. Searching message with Subject line : Verification Code Email
+[INFO] 30-07-2024 19:05:14 [main] [LogUtils] - Performs search through the folder : INBOX
+[INFO] 30-07-2024 19:05:14 [main] [LogUtils] - Number of messages found : 2
+[INFO] 30-07-2024 19:05:16 [main] [LogUtils] - Disconnecting...
+[INFO] 30-07-2024 19:05:16 [main] [LogUtils] - size of list of message: 2
+[INFO] 30-07-2024 19:05:16 [main] [LogUtils] - Message Subject : Verification Code Email
+[INFO] 30-07-2024 19:05:16 [main] [LogUtils] - Yes found it Message has been found 
+[INFO] 30-07-2024 19:05:16 [main] [LogUtils] - Before Refining OTP Code(Gmail Inbox):  222254
+[INFO] 30-07-2024 19:05:16 [main] [LogUtils] - After Refining OTP Code(Gmail Inbox): 222254
+[INFO] 30-07-2024 19:05:16 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="verification_code"]
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - Set text 222254 on By.xpath: //input[@name="verification_code"]
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - Verify element visible By.xpath: //button[@id="verifyCodeBtn"]
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - Clicked on the element By.xpath: //button[@id="verifyCodeBtn"]
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/datatest.properties
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - Loaded file: D:\Zapta\Automation\Mawad\src/test/resources/config/config.properties
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - Loaded all properties files.
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - Excel Path: D:\Zapta\Automation\Mawad\src/test/resources/testdata/ClientsDataExcel.xlsx
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - Row: 1 - Column: 19
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - StartRow: 1 - EndRow: 1
+[INFO] 30-07-2024 19:05:17 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 19:05:19 [main] [LogUtils] - Scroll to element By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 19:05:19 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 19:05:19 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 19:05:19 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 19:05:19 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 19:05:20 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 19:05:20 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 19:05:20 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 19:05:20 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 19:05:21 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 19:05:21 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 19:05:21 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 19:05:21 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 19:05:22 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 19:05:22 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 19:05:22 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[WARN] 30-07-2024 19:05:23 [main] [LogUtils] - Test case:  is skipped.
+[INFO] 30-07-2024 19:05:33 [main] [LogUtils] - Driver for Screenshot: ChromeDriver: chrome on windows (be20137f06e39ed1b8974bf8488ac0c0)
+[INFO] 30-07-2024 19:05:33 [main] [LogUtils] - Screenshot taken: addVendorBusinessInformation
+[INFO] 30-07-2024 19:05:33 [main] [LogUtils] - Screenshot taken current URL: https://mawad.ae/shops/create?_token=fLMKxP5W8CgfFjHfjcVuRiVQzMqTqGsXMksgLJBi&package_id=4
+[ERROR] 30-07-2024 19:05:33 [main] [LogUtils] - FAILED !! Screenshot for test case: addVendorBusinessInformation
+[ERROR] 30-07-2024 19:05:33 [main] [LogUtils] - org.openqa.selenium.NoSuchElementException: Cannot locate option with index: 2
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: driver.version: unknown
+[INFO] 30-07-2024 19:05:34 [main] [LogUtils] - Test case:  is starting...
+[INFO] 30-07-2024 19:05:34 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 19:05:34 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_english"]
+[INFO] 30-07-2024 19:05:35 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 19:05:35 [main] [LogUtils] - Set text Bricks Master on By.xpath: //input[@name="trade_name_arabic"]
+[INFO] 30-07-2024 19:05:35 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 19:05:35 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_english"]
+[INFO] 30-07-2024 19:05:35 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 19:05:35 [main] [LogUtils] - Set text Bricks ms on By.xpath: //input[@name="eshop_name_arabic"]
+[INFO] 30-07-2024 19:05:36 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 19:05:36 [main] [LogUtils] - Set text here is the description on By.xpath: //textarea[@name="eshop_desc_en"]
+[INFO] 30-07-2024 19:05:36 [main] [LogUtils] - Verify element visible By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 19:05:36 [main] [LogUtils] - Set text here is the arabic description on By.xpath: //textarea[@name="eshop_desc_ar"]
+[INFO] 30-07-2024 19:05:36 [main] [LogUtils] - Verify element visible By.id: license_issue_date
+[INFO] 30-07-2024 19:05:37 [main] [LogUtils] - Set text Thu Jul 18 00:00:00 PKT 2024 on By.id: license_issue_date
+[INFO] 30-07-2024 19:05:37 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 19:05:37 [main] [LogUtils] - Set text Fri Aug 09 00:00:00 PKT 2024 on By.xpath: //input[@name="license_expiry_date"]
+[INFO] 30-07-2024 19:05:38 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 19:05:38 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="street"]
+[INFO] 30-07-2024 19:05:39 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 19:05:39 [main] [LogUtils] - Set text SA145 on By.xpath: //input[@name="building"]
+[INFO] 30-07-2024 19:05:39 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 19:05:39 [main] [LogUtils] - Set text 145 on By.xpath: //input[@name="unit"]
+[INFO] 30-07-2024 19:05:39 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 19:05:39 [main] [LogUtils] - Set text 1561 on By.xpath: //input[@name="po_box"]
+[INFO] 30-07-2024 19:05:39 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 19:05:40 [main] [LogUtils] - Set text 804545615 on By.xpath: //input[@name="landline"]
+[INFO] 30-07-2024 19:05:40 [main] [LogUtils] - Verify element visible By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 19:05:40 [main] [LogUtils] - Set text 804545615 on By.xpath: //input[@name="trn"]
+[INFO] 30-07-2024 19:05:40 [main] [LogUtils] - Verify element visible By.xpath: //*[@id="businessInfoForm"]/div[2]/button[2]
+[INFO] 30-07-2024 19:05:41 [main] [LogUtils] - Test case:  is passed.
+[INFO] 30-07-2024 19:05:41 [main] [LogUtils] - End Suite: All Test Cases
